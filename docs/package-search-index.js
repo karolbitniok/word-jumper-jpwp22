@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.karolbitniok"},{"l":"pl.karolbitniok.alerts"},{"l":"pl.karolbitniok.components"},{"l":"pl.karolbitniok.components.alerts"},{"l":"pl.karolbitniok.panels"},{"l":"pl.karolbitniok.types"},{"l":"pl.karolbitniok.utils"}];updateSearchResults();
